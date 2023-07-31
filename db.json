@@ -1,11 +1,18 @@
 {
-    "posts": [
+    "retailers": [
         {
             "id": 1,
-            "title": "hello"
+            "name": "Premier Island Homes",
+            "url": "https://premierislandhomes.ca",
+            "about": "Premier Island Homes will deliver the distinguished and comfortable home you’re dreaming of! Our vast selection of house models include various styles to suit all tastes. You can choose one of our standard plans and modify it to fit your specific needs, or meet with one of our agents to obtain a custom plan. The customization options are endless – from bedroom configuration to counter tops –  at Premier Island Homes, your wish is our command. Premier Island Homes will build you a high quality home to fit your lifestyle, delivered on time and on budget. No delays and no extras. Our modular building system optimizes the construction process. Our climate-controlled plant and the efficiency of our assembly line ensures that you get superior quality and a precise delivery time, while also providing savings compared to traditional site-built homes, and avoiding wet construction conditions. Premier Island Homes, PEI’s premier Custom Home Builder is the solution for you. The solution to your needs and your peace of mind; The comfort solution!",
+            "logo": "https://premierislandhomes.ca/wp-content/uploads/sites/14/2018/01/premier-island-homes-logo-transparent.png"
+        },
+        {
+            "id": 2,
+            "name": "Gold River Homes",
+            "url": "https://goldriverhomes.ca/",
+            "about": "At Gold River Homes we deliver the distinguished and comfortable home you’ve been dreaming of! Our one-stop-shop experience allows us to sell your home, find you land, and buy your new home. Our vast selection of house models from Supreme Homes include various sizes styles to suit all tastes.",
+            "logo": "https://goldriverhomes.ca/gold-river-custom-homes/wp-content/uploads/sites/13/2018/01/GoldRiverLogo-3.png"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
